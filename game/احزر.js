@@ -2,9 +2,9 @@
 
     {
 
-        "img": "https://telegra.ph/file/62dc6440302ba4dbb51cd.jpg",
+        "img": "https://telegra.ph/file/444fc605a057e4d449132.jpg",
 
-        "name": "رايلي"
+        "name": "ياماماتو"
 
     },
 
@@ -12,7 +12,7 @@
 
         "img": "https://telegra.ph/file/1e27a997ad1c665aa8658.jpg",
 
-        "name": "ميغومي"
+        "name": "ايتشيبي"
 
     },
 
@@ -20,7 +20,7 @@
 
         "img": "https://telegra.ph/file/ae2912d507d8835e41e9a.jpg",
 
-        "name": "موزان"
+        "name": "ايشيدا"
 
     },
 
@@ -28,7 +28,7 @@
 
         "img": "https://telegra.ph/file/7a13746ebab6c132acb19.jpg",
 
-        "name": "وايوليت"
+        "name": "سادو"
 
     },
 
@@ -36,7 +36,7 @@
 
         "img": "https://telegra.ph/file/240f9fad116c85b420bbf.jpg",
 
-        "name": "ايساغي"
+        "name": "اوراهارا"
 
     },
 
@@ -44,7 +44,7 @@
 
         "img": "https://telegra.ph/file/ff78973403ec1f3bdc5fd.jpg",
 
-        "name": "ميدوريا"
+        "name": "بياكويا"
 
     },
 
@@ -52,7 +52,7 @@
 
         "img": "https://telegra.ph/file/2cc5b740776053dddb581.jpg",
 
-        "name": "نيزوكو"
+        "name": "رينجي"
 
     },
 
@@ -60,7 +60,7 @@
 
         "img": "https://telegra.ph/file/9631bfa9255dc1c92d4b8.jpg",
 
-        "name": "نيفيرتاري"
+        "name": "توشيرو"
 
     },
 
@@ -68,7 +68,7 @@
 
         "img": "https://telegra.ph/file/0ff1b38414462018996cb.jpg",
 
-        "name": "ليفاي"
+        "name": "زاراكي"
 
     },
 
