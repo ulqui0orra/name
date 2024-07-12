@@ -10,7 +10,7 @@
 
     {
 
-        "img": "https://telegra.ph/file/1e27a997ad1c665aa8658.jpg",
+        "img": "https://telegra.ph/file/47428f68fa7137c0d5708.jpg",
 
         "name": "ايتشيبي"
 
@@ -18,15 +18,15 @@
 
     {
 
-        "img": "https://telegra.ph/file/ae2912d507d8835e41e9a.jpg",
+        "img": "https://telegra.ph/file/e16cb0e172c514e03ca41.jpg",
 
-        "name": "ايشيدا"
+        "name": "ايتشيغو"
 
     },
 
     {
 
-        "img": "https://telegra.ph/file/7a13746ebab6c132acb19.jpg",
+        "img": "https://telegra.ph/file/b324e7936e6385e76fd25.jpg",
 
         "name": "سادو"
 
@@ -34,7 +34,7 @@
 
     {
 
-        "img": "https://telegra.ph/file/240f9fad116c85b420bbf.jpg",
+        "img": "https://telegra.ph/file/6e227c7e4424dae91fc4f.jpg",
 
         "name": "اوراهارا"
 
@@ -42,7 +42,7 @@
 
     {
 
-        "img": "https://telegra.ph/file/ff78973403ec1f3bdc5fd.jpg",
+        "img": "https://telegra.ph/file/f42213edc6c1766735ca5.jpg",
 
         "name": "بياكويا"
 
@@ -50,7 +50,7 @@
 
     {
 
-        "img": "https://telegra.ph/file/2cc5b740776053dddb581.jpg",
+        "img": "https://telegra.ph/file/b9bd19865cc0958ce709b.jpg",
 
         "name": "رينجي"
 
@@ -58,7 +58,7 @@
 
     {
 
-        "img": "https://telegra.ph/file/9631bfa9255dc1c92d4b8.jpg",
+        "img": "https://telegra.ph/file/5c7b3051e6a2dae45a9cd.jpg",
 
         "name": "توشيرو"
 
@@ -66,7 +66,7 @@
 
     {
 
-        "img": "https://telegra.ph/file/0ff1b38414462018996cb.jpg",
+        "img": "https://telegra.ph/file/f25e31aaf5abacc8b97cb.jpg",
 
         "name": "زاراكي"
 
@@ -74,9 +74,9 @@
 
     {
 
-        "img": "https://telegra.ph/file/075267497f6d25ffbb3ac.jpg",
+        "img": "https://telegra.ph/file/f60d63c116e377f8f95c4.jpg",
 
-        "name": "ريزي"
+        "name": "ايشيدا"
 
     },
 
