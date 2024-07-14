@@ -242,9 +242,9 @@
 
     {
 
-        "img": "https://telegra.ph/file/cca779c2ea871ad6061d9.jpg",
+        "img": "https://telegra.ph/file/9ac95a6f582ae4fd22857.jpg",
 
-        "name": "شانكس"
+        "name": "ستارك"
 
     },
 
