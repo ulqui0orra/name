@@ -82,9 +82,9 @@
 
     {
 
-        "img": "https://telegra.ph/file/335e5c44709d787dc52cf.jpg",
+        "img": "https://telegra.ph/file/b6a3a8efc7947a2477cff.jpg",
 
-        "name": "نيجي"
+        "name": "ايزن"
 
     },
 
@@ -98,17 +98,17 @@
 
     {
 
-        "img": "https://telegra.ph/file/fa919c6389cdb950f98d3.jpg",
+        "img": "https://telegra.ph/file/7ada0ab662c7a53aac2c6.jpg",
 
-        "name": "مايكي"
+        "name": "اوكيتاكي"
 
     },
 
     {
 
-        "img": "https://telegra.ph/file/cba30ae4d6e040c536ebe.jpg",
+        "img": "https://telegra.ph/file/870807a2f21ac8b071f20.jpg",
 
-        "name": "بان"
+        "name": "كيوراكو"
 
     },
 
@@ -122,121 +122,121 @@
 
     {
 
-        "img": "https://telegra.ph/file/cd2c4cd7aac0ac7ed473b.jpg",
+        "img": "https://telegra.ph/file/6ea0bc29e943fc4250f06.jpg",
 
-        "name": "دينجي"
-
-    },
-
-    {
-
-        "img": "https://telegra.ph/file/7cc4e2d9e6fc259931643.jpg",
-
-        "name": "توكيتو"
+        "name": "شينجي"
 
     },
 
     {
 
-        "img": "https://telegra.ph/file/0b8507e32238614180c62.jpg",
+        "img": "https://telegra.ph/file/83e488056bcf25dd58009.jpg",
 
-        "name": "اسكيلاد"
-
-    },
-
-    {
-
-        "img": "https://telegra.ph/file/06824309638caedd6816c.jpg",
-
-        "name": "ناغي"
+        "name": "هيكيفوني"
 
     },
 
     {
 
-        "img": "https://telegra.ph/file/f1bac44d568cbfb21779c.jpg",
+        "img": "https://telegra.ph/file/d4e4a29d4f36ae4c9bc0c.jpg",
 
-        "name": "ياماتو"
-
-    },
-
-    {
-
-        "img": "https://telegra.ph/file/f1bac44d568cbfb21779c.jpg",
-
-        "name": "بيلاروسيا"
+        "name": "نيمايا"
 
     },
 
     {
 
-        "img": "https://telegra.ph/file/d0a4bbb42d8054f83c5ec.jpg",
+        "img": "https://telegra.ph/file/0909589dc575f0d19230e.jpg",
 
-        "name": "اينوسكي"
-
-    },
-
-    {
-
-        "img": "https://telegra.ph/file/53320c1d1f22fd49892bb.jpg",
-
-        "name": "غوجو"
+        "name": "كيرينجي"
 
     },
 
     {
 
-        "img": "https://telegra.ph/file/42460e0994941fa7272e4.jpg",
+        "img": "https://telegra.ph/file/64aff44c00492ffe7bccc.jpg",
 
-        "name": "كورابيكا"
-
-    },
-
-    {
-
-        "img": "https://telegra.ph/file/656737c7a866146925347.jpg",
-
-        "name": "سوكونا"
+        "name": "سينجومارو"
 
     },
 
     {
 
-        "img": "https://telegra.ph/file/ad0ae5ab022f1a8e24500.jpg",
+        "img": "https://telegra.ph/file/c48fb96bd12c59dba4d57.jpg",
 
-        "name": "ايتادوري"
-
-    },
-
-    {
-
-        "img": "https://telegra.ph/file/c611f476b1428aa386e14.jpg",
-
-        "name": "شوتو"
+        "name": "ايس نوت"
 
     },
 
     {
 
-        "img": "https://telegra.ph/file/3c0ee70b4ecc9ba1f7f82.jpg",
+        "img": "https://telegra.ph/file/f43157935af417648393b.jpg",
 
-        "name": "توغا"
-
-    },
-
-    {
-
-        "img": "https://telegra.ph/file/aaaffb13764f73e832cea.jpg",
-
-        "name": "ناروتو"
+        "name": "بامبيتا"
 
     },
 
     {
 
-        "img": "https://telegra.ph/file/86d90568193ca2cbcec12.jpg",
+        "img": "https://telegra.ph/file/86cf91e5df1994109e664.jpg",
 
-        "name": "باكاوغو"
+        "name": "روبرت"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/20a57fa94f1a9a7ff6bca.jpg",
+
+        "name": "يوميتشيكا"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/d214107d96a1a1c93bde5.jpg",
+
+        "name": "هيساغي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/bf1471ad455c3fd51b992.jpg",
+
+        "name": "مادارامي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/5d7ac7e086c977ce327e8.jpg",
+
+        "name": "مايوري"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/68a6307f14e6a5c8c92fa.jpg",
+
+        "name": "روجورو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/8c21c24c461a84829abc0.jpg",
+
+        "name": "ريونوسوكي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/ddc6b8dafbda2a1bc0781.jpg",
+
+        "name": "يوهاباخ"
 
     },
 
