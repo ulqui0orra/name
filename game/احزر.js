@@ -250,17 +250,17 @@
 
     {
 
-        "img": "https://telegra.ph/file/33e425e711ff34ef73a77.jpg",
+        "img": "https://telegra.ph/file/e8303c98f713b4e1a2b9e.jpg",
 
-        "name": "ناروتو"
+        "name": "باراغان"
 
     },
 
     {
 
-        "img": "https://telegra.ph/file/dc330d292d56876c14e8c.jpg",
+        "img": "https://telegra.ph/file/9b02127a445ca53bb1f73.jpg",
 
-        "name": "كانيكي"
+        "name": "باراغان"
 
     },
 
